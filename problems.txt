@@ -1,0 +1,1 @@
+1. didn't use route so cannt use the <Link> in navbar
